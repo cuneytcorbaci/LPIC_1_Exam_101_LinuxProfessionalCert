@@ -1,4 +1,7 @@
-## TABLE OF CONTENTS
+# LPIC-1 (101) (Version 5.0)
+***[İlgili Materyal İndirme Linki](https://learning.lpi.org/en/learning-materials/101-500/)***
+
+## İÇERİK
 
  - **Konu 101 : Sistem Mimarisi**
    - ***[101.1 Donanım Ayarlarını Belirleme ve Yapılandırma](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_System%20Architecture/101_1%20Determine%20and%20Configure%20Hardware%20Settings.md)***
