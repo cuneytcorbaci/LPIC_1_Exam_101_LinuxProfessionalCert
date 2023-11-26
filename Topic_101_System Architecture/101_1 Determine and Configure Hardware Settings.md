@@ -20,6 +20,16 @@ Partial list of the used files, terms and utilities
 -   **lspci**
 -   **lsusb**
 
+|LPIC            |101.1 Lesson 1                                     |                                       
+|----------------|--------|------------------------------------------|
+|Sertifika       |LPIC-1                                             |
+|Versiyon        |5.0                                                |
+|Konu            |101 Sistem Mimarisi                                |
+|Versiyon        |5.0												 |
+|Hedef			 |101.1 Donanım Ayarlarını Belirleme ve Yapılandırma |
+|Ders            |1 / 1                                              |
+|                |                                                   | 
+
 ### **Introduction**
 
 Since the early years of electronic computing, business and personal computer manufacturers have integrated a variety of hardware parts in their machines, which in turn need to be supported by the operating system. That could be overwhelming from the operating system developer’s perspective, unless standards for instruction sets and device communication are established by the industry. Similar to the standardized abstraction layer provided by the operating system to an application, these standards make it easier to write and maintain an operating system that is not tied to a specific hardware model. However, the complexity of the integrated underlying hardware sometimes requires adjustments on how resources should be exposed to the operating system, so it can be installed and function correctly.
