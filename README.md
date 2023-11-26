@@ -1,6 +1,6 @@
 ## TABLE OF CONTENTS
 
- - **Topic 101 : System Architecture**
+ - **[Topic 101 : System Architecture](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_System%20Architecture/101_1%20Determine%20and%20Configure%20Hardware%20Settings.md)**
    - 101.1 Determine and configure hardware settings
         -  Introduction
            - Device Activation
