@@ -23,14 +23,14 @@
       - Answers to Guided Exercises
       - Answers to Explorational Exercises
    - 101.3 Change runlevels / boot targets and shutdown or reboot system
- - **Topic 102 : Linux Installation and Package Management**
+ - **[Topic 102 : Linux Installation and Package Management](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_System%20Architecture/101_2%20Linux%20Installation%20and%20Package%20Management.md)**
    - 102.1 Design hard disk layout
    - 102.2 Install a boot manager
    - 102.3 Manage shared libraries
    - 102.4 Use Debian package management
    - 102.5 Use RPM and YUM package management
    - 102.6 Linux as a virtualization guest
- - **Topic 103 : GNU and Unix Commands**
+ - **[Topic 103 : GNU and Unix Commands](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_System%20Architecture/101_3%20Change%20runlevels_boot%20targets%20and%20shutdown%20or%20reboot%20system.md)**
    - 103.1 Work on the command line
    - 103.2 Process text streams using filters
    - 103.3 Perform basic file management
