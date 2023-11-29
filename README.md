@@ -2,9 +2,9 @@
 
 LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki ilk sertifikadır. LPIC-1, adayın komut satırında bakım görevlerini yerine getirme, Linux çalıştıran bir bilgisayarı kurma ve yapılandırma, temel ağ yapılandırma yeteneklerini doğrulayacaktır.
 
-***[İlgili Materyal İndirme Linki](https://learning.lpi.org/en/learning-materials/101-500/)***
+***[İlgili Materyali İndirme Linki](https://learning.lpi.org/en/learning-materials/101-500/)***
 
-## İÇİNDEKİLER
+## İçindekiler
 
  - **Konu 101 : Sistem Mimarisi**
    - ***[101.1 Donanım Ayarlarını Belirleme ve Yapılandırma](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_Sistem_Mimarisi/101_1%20Donan%C4%B1m%20Ayarlar%C4%B1n%C4%B1%20Belirleme%20ve%20Yap%C4%B1land%C4%B1rma.md)***
