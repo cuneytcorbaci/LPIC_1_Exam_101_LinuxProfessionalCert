@@ -18,16 +18,15 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
         - Özet
         - Rehberli Egzersizlere Cevaplar
    - ***[101.2 Boot the System](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_Sistem_Mimarisi/101_2%20Linux%20Installation%20and%20Package%20Management.md)***
-      -   Introduction
-         - BIOS or UEFI
+      -   Giriş
+         - BIOS ve UEFI
          - The Bootloader
-         - System Initialization
-         - Initialization Inspection
-      - Guided Exersicises
-      - Explorational Exercises
-      - Summary
-      - Answers to Guided Exercises
-      - Answers to Explorational Exercises
+         - Sistemi Başlatma
+         - Başlatma İncelemesi
+      - Rehberli Egzersizler
+      - Keşif Egzersizleri
+      - Özet
+      - Rehberli Egzersizlere Cevaplar
    - ***[101.3 Change runlevels / boot targets and shutdown or reboot system](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_System%20Architecture/101_3%20Change%20runlevels_boot%20targets%20and%20shutdown%20or%20reboot%20system.md)***
  - **Topic 102 : Linux Installation and Package Management**
    - 102.1 Design hard disk layout
