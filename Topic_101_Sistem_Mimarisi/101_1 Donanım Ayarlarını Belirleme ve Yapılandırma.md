@@ -35,9 +35,8 @@ Elektronik bilgisayarların ilk yıllarından itibaren, iş ve kişisel bilgisay
 
 Bazı ayarlamalar, kurulu bir işletim sistemi olmadan bile yapılabilir. Birçok makine, makine açılırken yürütülebilen bir yapılandırma yardımcı programı sunar. 2000'li yılların ortalarına kadar yapılandırma yardımcı programı, x86 anakartlarda bulunan temel yapılandırma rutinlerini içeren firmware için standart olan BIOS'ta (Temel Giriş/Çıkış Sistemi) uygulanmıştı. 2000'li yılların ilk on yılı sonlarından itibaren, x86 mimarisine dayalı makineler, BIOS'un yerine daha sofistike özelliklere sahip olan UEFI (Birleşik Genişletilebilir Firmware Arabirimi) adlı yeni bir uygulama ile değişmeye başladı. Ancak bu değişikliğe rağmen, her iki uygulama da temelde aynı amacı yerine getirdiği için yapılandırma yardımcı programına hala BIOS adı vermek yaygındır.
 
-**Not**
-
-BIOS ve UEFI arasındaki benzerlikler ve farklar hakkındaki daha fazla detay, sonraki bir ders kapsamında ele alınacaktır.
+>**Not**
+>BIOS ve UEFI arasındaki benzerlikler ve farklar hakkındaki daha fazla detay, sonraki bir ders kapsamında ele alınacaktır.
 
 
 ###  Aygıt Etkinleştirme
@@ -280,9 +279,8 @@ runpm:disable (0), force enable (1), optimus only default (-1) (int)
 
 Eğer bir modül sorunlara neden oluyorsa, /etc/modprobe.d/blacklist.conf dosyası kullanılarak modülün yüklenmesi engellenebilir. Örneğin, nouveau modülünün otomatik olarak yüklenmesini engellemek için, blacklist nouveau satırı /etc/modprobe.d/blacklist.conf dosyasına eklenmelidir. Bu işlem, özel sürücü modülü nvidia yüklüyken ve varsayılan modül nouveau kullanılmak istenmiyorsa gereklidir.
 
-**Not**
-
-Sistemde varsayılan olarak zaten bulunan /etc/modprobe.d/blacklist.conf dosyasını değiştirebilirsiniz. Ancak, tercih edilen yöntem, yalnızca belirli bir çekirdek modülüne özgü ayarları içeren /etc/modprobe.d/<modül_adı>.conf adlı ayrı bir yapılandırma dosyası oluşturmaktır.
+>**Not**
+>Sistemde varsayılan olarak zaten bulunan /etc/modprobe.d/blacklist.conf dosyasını değiştirebilirsiniz. Ancak, tercih edilen yöntem, yalnızca belirli bir çekirdek modülüne özgü ayarları içeren /etc/modprobe.d/<modül_adı>.conf adlı ayrı bir yapılandırma dosyası oluşturmaktır.
 
 
 ### Bilgi Dosyaları ve Aygıt Dosyaları
