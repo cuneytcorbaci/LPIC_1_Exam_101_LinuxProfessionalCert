@@ -17,7 +17,7 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
         - Keşif Egzersizleri
         - Özet
         - Rehberli Egzersizlere Cevaplar
-   - ***[101.2 Sistem Önyüklemesi](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_Sistem_Mimarisi/101_2%20Linux%20Installation%20and%20Package%20Management.md)***
+   - ***[101.2 Sistem Önyüklemesi](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_Sistem_Mimarisi/101_2%20Sistem%20%C3%96ny%C3%BCklemesi.md)***
       -   Giriş
          - BIOS ve UEFI
          - The Bootloader
