@@ -7,7 +7,7 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
 ## İçindekiler
 
  - **Konu 101 : Sistem Mimarisi**
-   - ***[101.1 Donanım Ayarlarını Belirleme ve Yapılandırma](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_1.md)***
+   - ***[101.1 Donanım Ayarlarını Belirleme ve Yapılandırma](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_SistemMimarisi/101_1.md)***
         -  Giriş
            - Aygıt Etkinleştirme
            - Linux'ta Aygıt İncelemesi
@@ -17,7 +17,7 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
         - Keşif Egzersizleri
         - Özet
         - Rehberli Egzersizlere Cevaplar
-   - ***[101.2 Sistem Önyüklemesi](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_2.md)***
+   - ***[101.2 Sistem Önyüklemesi](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_SistemMimarisi/101_2.md)***
       -   Giriş
            - BIOS ve UEFI
            - The Bootloader
@@ -27,7 +27,7 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
       - Keşif Egzersizleri
       - Özet
       - Rehberli Egzersizlere Cevaplar
-   - ***[101.3 runlevels / boot hedeflerini değiştirmek, sistemi kapatmak veya yeniden başlatmak](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_3.md)***
+   - ***[101.3 runlevels / boot hedeflerini değiştirmek, sistemi kapatmak veya yeniden başlatmak](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_SistemMimarisi/101_3.md)***
       -   Giriş
            - SysVinit
            - systemd
