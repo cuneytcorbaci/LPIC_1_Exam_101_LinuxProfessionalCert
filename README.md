@@ -7,7 +7,7 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
 ## İçindekiler
 
  - **Konu 101 : Sistem Mimarisi**
-   - ***[101.1 Donanım Ayarlarını Belirleme ve Yapılandırma](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_Sistem_Mimarisi/101_1%20Donan%C4%B1m%20Ayarlar%C4%B1n%C4%B1%20Belirleme%20ve%20Yap%C4%B1land%C4%B1rma.md)***
+   - ***[101.1 Donanım Ayarlarını Belirleme ve Yapılandırma](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_1.md)***
         -  Giriş
            - Aygıt Etkinleştirme
            - Linux'ta Aygıt İncelemesi
@@ -17,7 +17,7 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
         - Keşif Egzersizleri
         - Özet
         - Rehberli Egzersizlere Cevaplar
-   - ***[101.2 Sistem Önyüklemesi](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_Sistem_Mimarisi/101_2%20Sistem%20%C3%96ny%C3%BCklemesi.md)***
+   - ***[101.2 Sistem Önyüklemesi](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_2.md)***
       -   Giriş
          - BIOS ve UEFI
          - The Bootloader
@@ -27,7 +27,7 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
       - Keşif Egzersizleri
       - Özet
       - Rehberli Egzersizlere Cevaplar
-   - ***[101.3 Change runlevels / boot targets and shutdown or reboot system](https://github.com/cuneytcorbaci/LPIC-1-LPIC-1-Exam-101---Linux-Professional/blob/main/Topic_101_System%20Architecture/101_3%20Change%20runlevels_boot%20targets%20and%20shutdown%20or%20reboot%20system.md)***
+   - ***[101.3 Change runlevels / boot targets and shutdown or reboot system](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_3.md)***
  - **Topic 102 : Linux Installation and Package Management**
    - 102.1 Design hard disk layout
    - 102.2 Install a boot manager
