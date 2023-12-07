@@ -29,10 +29,10 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
       - Rehberli Egzersizlere Cevaplar
    - ***[101.3 runlevels / boot hedeflerini değiştirmek, sistemi kapatmak veya yeniden başlatmak](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_3.md)***
         -   Giriş
-         - SysVinit
-         - systemd
-         - Upstart
-         - Kapatma ve Yeniden Başlatma
+          - SysVinit
+          - systemd
+          - Upstart
+          - Kapatma ve Yeniden Başlatma
       - Rehberli Egzersizler
       - Keşif Egzersizleri
       - Özet
