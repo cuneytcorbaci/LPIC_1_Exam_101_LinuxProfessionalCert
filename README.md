@@ -27,7 +27,16 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
       - Keşif Egzersizleri
       - Özet
       - Rehberli Egzersizlere Cevaplar
-   - ***[101.3 Change runlevels / boot targets and shutdown or reboot system](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_3.md)***
+   - ***[101.3 runlevels / boot hedeflerini değiştirmek, sistemi kapatmak veya yeniden başlatmak](https://github.com/cuneytcorbaci/LPIC_1_Exam_101_LinuxProfessionalCert/blob/main/Topic_101_Sistem_Mimarisi/101_3.md)***
+        -   Giriş
+         - SysVinit
+         - systemd
+         - Upstart
+         - Kapatma ve Yeniden Başlatma
+      - Rehberli Egzersizler
+      - Keşif Egzersizleri
+      - Özet
+      - Rehberli Egzersizlere Cevaplar
  - **Topic 102 : Linux Installation and Package Management**
    - 102.1 Design hard disk layout
    - 102.2 Install a boot manager
