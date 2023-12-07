@@ -61,6 +61,7 @@ LPIC-1, LPI'nın çok seviyeli Linux profesyonel sertifikasyon programındaki il
    - 104.6 Create and change hard and symbolic links
    - 104.7 Find system files and place files in the correct location
 
+Enjoy iy :)
 
 
 
